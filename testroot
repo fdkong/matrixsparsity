@@ -1,0 +1,4 @@
+app_name = matrix_sparsity
+allow_warnings = false
+allow_unused = false
+allow_override = false
